@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上
 "love_date": "2022-07-02",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "传说初夏的夕阳山是最美的，此时的夕阳山放眼望去全都是盛开的樱花，恰似一片浪漫的花的海洋。",
+"note_ch": "",
 # 金句英文
-"note_en": "It is said that the sunset mountain in early summer is the most beautiful. At this time, the sunset mountain is full of cherry blossoms, just like a sea of romantic flowers."
+"note_en": ""
 }
